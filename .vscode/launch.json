@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MenuDriven",
+            "request": "launch",
+            "mainClass": "MenuDriven",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExpressionEvaluatorTest",
+            "request": "launch",
+            "mainClass": "ExpressionEvaluatorTest",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Postfix",
+            "request": "launch",
+            "mainClass": "Postfix",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayStackTest",
+            "request": "launch",
+            "mainClass": "ArrayStackTest",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Brushing",
+            "request": "launch",
+            "mainClass": "Brushing",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListFrameTest",
+            "request": "launch",
+            "mainClass": "ListFrameTest",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TextFieldFrameTest",
+            "request": "launch",
+            "mainClass": "TextFieldFrameTest",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch WindowTest",
+            "request": "launch",
+            "mainClass": "WindowTest",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Label2Test",
+            "request": "launch",
+            "mainClass": "Label2Test",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassAverage",
+            "request": "launch",
+            "mainClass": "ClassAverage",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentTest",
+            "request": "launch",
+            "mainClass": "StudentTest",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AdditionTest",
+            "request": "launch",
+            "mainClass": "AdditionTest",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comparison",
+            "request": "launch",
+            "mainClass": "Comparison",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccountTest",
+            "request": "launch",
+            "mainClass": "AccountTest",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch FieldTest",
+            "request": "launch",
+            "mainClass": "FieldTest",
+            "projectName": "MyProjects_176a63b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch WindowTest",
+            "request": "launch",
+            "mainClass": "WindowTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch LabelTest",
+            "request": "launch",
+            "mainClass": "LabelTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comparison",
+            "request": "launch",
+            "mainClass": "Comparison",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Welcome",
+            "request": "launch",
+            "mainClass": "Welcome",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Welcome1",
+            "request": "launch",
+            "mainClass": "Welcome1",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Window",
+            "request": "launch",
+            "mainClass": "Window",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch WindowTest",
+            "request": "launch",
+            "mainClass": "WindowTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Welcome",
+            "request": "launch",
+            "mainClass": "Welcome",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "TextFieldFrameTest",
+            "request": "launch",
+            "mainClass": "TextFieldFrameTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "FieldTest",
+            "request": "launch",
+            "mainClass": "FieldTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "AccountTest",
+            "request": "launch",
+            "mainClass": "AccountTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "AdditionTest",
+            "request": "launch",
+            "mainClass": "AdditionTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "StudentTest",
+            "request": "launch",
+            "mainClass": "StudentTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "ClassAverage",
+            "request": "launch",
+            "mainClass": "ClassAverage",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "WindowTest",
+            "request": "launch",
+            "mainClass": "WindowTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "ListFrameTest",
+            "request": "launch",
+            "mainClass": "ListFrameTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "ArrayStackTest",
+            "request": "launch",
+            "mainClass": "ArrayStackTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "ExpressionEvaluatorTest",
+            "request": "launch",
+            "mainClass": "ExpressionEvaluatorTest",
+            "projectName": "myApp5_77efecf"
+        },
+        {
+            "type": "java",
+            "name": "MenuDriven",
+            "request": "launch",
+            "mainClass": "MenuDriven",
+            "projectName": "myApp5_77efecf"
+        }
+    ]
+}
